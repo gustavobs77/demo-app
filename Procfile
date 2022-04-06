@@ -1,1 +1,1 @@
-web: gunicorn weg: server
+web:gunicorn weg: server
